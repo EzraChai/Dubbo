@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/001-link-user" />
+    <file type="web" url="file://$PROJECT_DIR$/002-link-user-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/003-link-interface" />
+    <file type="web" url="file://$PROJECT_DIR$/004-link-userservice-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/005-link-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/007-zk-userservice-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/008-zk-consumer" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/001-link-user/pom.xml" />
+        <option value="$PROJECT_DIR$/002-link-user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/003-link-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/004-link-userservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/005-link-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/006-zk-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/007-zk-userservice-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/008-zk-consumer/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
