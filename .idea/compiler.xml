@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="008-zk-consumer" />
+        <module name="009-zk-userservice-multi-provider" />
         <module name="001-link-user-provider" />
         <module name="002-link-user-consumer" />
         <module name="004-link-userservice-provider" />
         <module name="005-link-consumer" />
         <module name="007-zk-userservice-provider" />
         <module name="006-zk-interface" />
+        <module name="010-zk-userservice-multi-consumer" />
         <module name="003-link-interface" />
       </profile>
     </annotationProcessing>
@@ -25,6 +27,8 @@
       <module name="006-zk-interface" target="8" />
       <module name="007-zk-userservice-provider" target="1.8" />
       <module name="008-zk-consumer" target="1.8" />
+      <module name="009-zk-userservice-multi-provider" target="15" />
+      <module name="010-zk-userservice-multi-consumer" target="15" />
     </bytecodeTargetLevel>
   </component>
 </project>

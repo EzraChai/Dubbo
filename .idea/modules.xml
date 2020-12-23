@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/006-zk-interface/006-zk-interface.iml" filepath="$PROJECT_DIR$/006-zk-interface/006-zk-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/007-zk-userservice-provider/007-zk-userservice-provider.iml" filepath="$PROJECT_DIR$/007-zk-userservice-provider/007-zk-userservice-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/008-zk-consumer/008-zk-consumer.iml" filepath="$PROJECT_DIR$/008-zk-consumer/008-zk-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009-zk-userservice-multi-provider/009-zk-userservice-multi-provider.iml" filepath="$PROJECT_DIR$/009-zk-userservice-multi-provider/009-zk-userservice-multi-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010-zk-userservice-multi-consumer/010-zk-userservice-multi-consumer.iml" filepath="$PROJECT_DIR$/010-zk-userservice-multi-consumer/010-zk-userservice-multi-consumer.iml" />
     </modules>
   </component>
 </project>
